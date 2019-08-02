@@ -1,0 +1,31 @@
+{
+  "intents": [
+    {
+      "intentTitle":"goodby",
+      "tag": "1",
+      "patterns": [ "Bye", "See you later", "Goodbye" ],
+      "responses": [ "See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon." ],
+      "context_set": ""
+    },
+   
+    {
+      "intentTitle":"cancellation",
+      "tag": "2",
+      "patterns": [ "i want to cancel","cancell","to put an end to","abrogate","annul","invalidate","break off","terminate", "interrupt", "suspend","give up", "relinquish", "surrender" ],
+      "responses": [ "You are welcome" ],
+      "context_set": ""
+    },
+    {
+      "intentTitle":"subscrbtion",
+      "tag": "3",
+      "patterns": [ "i want to subscribe","subscribe","to become member","add","validate","book The ", "Book a table at .",  "Please make a restaurant reservation ", "book a spot for ", "I'd like to eat at ", "book a ", "I want to book a ","Find a table for ", "Book a ", "please book a  ", "book a spot in ", "Make a reservation"],
+      "responses": [ "You are welcome" ],
+      "context_set": ""
+    }
+  
+  
+
+  ]
+}
+
+

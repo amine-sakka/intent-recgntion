@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sakka/Documents/intent/IR/model.tflearn"
+all_model_checkpoint_paths: "/home/sakka/Documents/intent/IR/model.tflearn"
